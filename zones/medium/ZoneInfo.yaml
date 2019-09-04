@@ -1,0 +1,12 @@
+name: "ZoneInfo.yaml"
+description: ".medium zone info file"
+hosts:
+  - nic:
+      IPv6: "200:1e4b:b2df:69ba:1eba:fdf9:edde:3712"
+      AAAA: "200:1e4b:b2df:69ba:1eba:fdf9:edde:3712"
+  - mail:
+      IPv6: "200:1e4b:b2df:69ba:1eba:fdf9:edde:3712"
+      AAAA: "200:1e4b:b2df:69ba:1eba:fdf9:edde:3712"
+  - wiki:
+      IPv6: "200:1e4b:b2df:69ba:1eba:fdf9:edde:3712"
+      AAAA: "200:1e4b:b2df:69ba:1eba:fdf9:edde:3712"  
