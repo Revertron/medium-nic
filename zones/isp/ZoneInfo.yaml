@@ -2,5 +2,4 @@ name: "ZoneInfo.yaml"
 description: ".isp zone info file"
 hosts:
   - medium:
-      IPv6: "200:1e4b:b2df:69ba:1eba:fdf9:edde:3712"
       AAAA: "200:1e4b:b2df:69ba:1eba:fdf9:edde:3712"
