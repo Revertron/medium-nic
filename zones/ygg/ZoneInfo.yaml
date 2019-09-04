@@ -145,3 +145,6 @@ hosts:
   - yacy:
       IPv6: "200:d0c4:68ee:e87b:c206:67b8:5fa5:d4be"
       AAAA: "200:d0c4:68ee:e87b:c206:67b8:5fa5:d4be"
+  - rutor:
+      IPv6: "200:afa6:be2b:e94c:20b6:17e0:a02f:ee35"
+      AAAA: "200:afa6:be2b:e94c:20b6:17e0:a02f:ee35"
