@@ -101,3 +101,5 @@ hosts:
       AAAA: "200:afa6:be2b:e94c:20b6:17e0:a02f:ee35"
   - minofev:
       AAAA: "200:70a6:2e2f:fce5:a75c:5b86:3489:a254"
+  - habr:
+      AAAA: "200:1e4b:b2df:69ba:1eba:fdf9:edde:3712"
