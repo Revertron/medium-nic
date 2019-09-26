@@ -10,4 +10,4 @@
 | IPv6 | Порт | Доступность |
 |------|:----:|:-----------:|
 | `200:1e4b:b2df:69ba:1eba:fdf9:edde:3712` | 53 | ![](https://img.shields.io/badge/доступен-brightgreen.svg) |
-| `200:d0c4:68ee:e87b:c206:67b8:5fa5:d4be` | 53 | ![](https://img.shields.io/badge/частично-yellow.svg) |
+| `200:d0c4:68ee:e87b:c206:67b8:5fa5:d4be` | 53 | ![](https://img.shields.io/badge/доступен-brightgreen.svg) |
