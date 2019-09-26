@@ -105,3 +105,5 @@ hosts:
       AAAA: "200:1e4b:b2df:69ba:1eba:fdf9:edde:3712"
   - domains:
       AAAA: "200:d672:ace1:3304:de22:1cef:c964:ef"
+  - nic:
+      AAAA: "200:d672:ace1:3304:de22:1cef:c964:ef"
