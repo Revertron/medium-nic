@@ -1,5 +1,0 @@
-name: "ZoneInfo.yaml"
-description: ".nsfw zone info file"
-hosts:
-  - nic:
-      AAAA: "200:1e4b:b2df:69ba:1eba:fdf9:edde:3712"
